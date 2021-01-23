@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/Controller/SuaDienThoaiController.java=UTF-8
+encoding//src/Controller/SuaDongHoController.java=UTF-8
+encoding//src/Controller/SuaipadController.java=UTF-8
+encoding//src/Controller/SualaptopController.java=UTF-8
+encoding//src/Controller/ThemDienThoaiController.java=UTF-8
+encoding//src/Controller/ThemDongHoController.java=UTF-8
+encoding//src/Controller/ThemIpadController.java=UTF-8
+encoding//src/Controller/ThemLaptopController.java=UTF-8
+encoding//src/DAO/ThemDienThoaiDAO.java=UTF-8
+encoding//src/DAO/ThemdonhangDAO.java=UTF-8
